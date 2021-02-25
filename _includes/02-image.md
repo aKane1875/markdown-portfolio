@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Beginner Logo](https://www.shutterstock.com/image-vector/beginner-sign-stamp-on-white-background-1370488094)
